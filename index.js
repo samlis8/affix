@@ -1,4 +1,5 @@
-export const createAffixNav = (params = {}) => {
+export const createAffixNav = params => {
+    params = params || {};
     const visibleHeight = document.documentElement.clientHeight;
     const contentList = document.querySelectorAll('[data-navto]');
 

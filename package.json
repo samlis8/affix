@@ -1,12 +1,24 @@
 {
   "name": "affix-notek",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "固定菜单组件 网页固定菜单",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "notek",
+  "author": {
+    "name": "notek",
+    "email": "notek1314@gmail.com"
+  },
   "license": "ISC",
-  "style":"ui.css"
+  "style":"ui.css",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:notek/affix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/notek/affix/issues"
+  },
+  "homepage": "https://github.com/notek/affix"
 }
