@@ -1,11 +1,12 @@
 {
   "name": "affix-notek",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "固定菜单组件 网页固定菜单",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "notek",
-  "license": "ISC"
+  "license": "ISC",
+  "style":"ui.css"
 }
