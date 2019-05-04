@@ -1,4 +1,4 @@
-export default createAffixNav = params => {
+export const createAffixNav = params => {
     const visibleHeight = document.documentElement.clientHeight;
     const contentList = document.querySelectorAll('[data-navto]');
 
